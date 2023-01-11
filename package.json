@@ -4,7 +4,7 @@
   "description": "MoneyForward クラウド勤怠スクリプト",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^10.0.0"
+    "puppeteer": "^19.5.1"
   },
   "devDependencies": {},
   "scripts": {
